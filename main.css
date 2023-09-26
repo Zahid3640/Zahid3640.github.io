@@ -1,0 +1,168 @@
+body{
+    padding: 20px 20px 20px 20px;
+    height: 122vh;
+    font-weight: bold;
+    letter-spacing: 1px;
+    background-color: #636162;
+    padding-bottom: 40px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montsrrat', sans-serif;
+}
+.main{
+    background-color: white;
+    height: 855px;
+    width: 650px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 60%;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    border: solid 3px #fbb03b;
+}
+.left{
+    background-color: #fbb03b; 
+    width: 200px;
+    height: 600px;
+    float: left;
+
+}
+.right{
+    width: 450px;
+    float: left;
+}
+.profile-img{
+    margin-bottom: 20px;
+    border-radius: 50px;
+    margin-left: 60px;
+    float: left;
+    width: 178px;
+    height: 198px;
+    border-radius: 50%;
+    border: 9px solid  #fbb03b;  
+    box-shadow: 3px 3px 9px 5px#fbb03b;
+}
+.profile-img img{
+   width: 100%;
+   border-radius: 50%;
+
+}
+.biox-1{
+    margin-bottom: 10px;
+}
+ .heading {
+    background-color: #636162;
+    padding: 10px;
+    color: #fbb03b;
+    text-align: left;
+    padding-left: 20%;
+    margin-right: -15%;
+}
+.bg{
+    background-color: #fbb03b; 
+}
+.heading::after p{
+    background-color: #5a5959;
+    width: 10px;
+    height: 12px;
+    left: 180px;
+    top: 15px;
+    transform: rotate(56deg);
+    z-index: -1;
+
+}
+
+.p1{
+    padding: 9px 10px;
+    font-size: 11px;
+    font: bold;
+}
+.skil-container{
+    width: 150px;
+    background-color: #636162;
+    margin: 0px 10px;
+}
+.skil{
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+}
+.html{
+    width: 95%;
+    background-color: white;
+}
+.css{
+    width: 95%;
+    background-color: white;
+}
+.py{
+    width: 80%;
+    background-color: white;
+}
+.js{
+    width: 90%;
+    background-color: white;
+}
+.dp{
+    width: 90%;
+    background-color: white;
+}
+.fu{
+    width: 90%;
+    background-color: white;
+}
+.api{
+    margin-bottom: 10px;
+    width: 90%;
+    background-color: white;
+}
+.eng{
+    width: 50%;
+    background-color: white;
+}
+.hindi{
+    margin-bottom: 10px;
+    width: 95%;
+    background-color: white;
+}
+.urdu{
+    width: 100%;
+    background-color: white;
+}
+.h1{
+    
+    margin: 10px 10px 10px 10px;
+}
+.fa-solid{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.name-div{
+    text-align: center;
+    padding: 86px 0px 60px 55px;
+    letter-spacing: 3px;
+}
+.box-2{
+     margin-top: 35px;
+     padding: 0px 50px;
+}
+.p2{
+    font-size: 15px;
+    font-weight: 200;
+    margin-top: 4px;
+}
+.p3{
+    margin-top: 15px;
+    font-size: 23px;
+    font-weight: 300;
+    
+}
+.p4{
+    font-size: 20px;
+    margin-top: 4px;
+    font-weight: 320;
+}
